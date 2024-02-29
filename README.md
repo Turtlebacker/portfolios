@@ -171,7 +171,7 @@ JavaScripts, GraphQL, express-graphql
 
 ## 참고 사진
 
-보안 문제로 비공개개
+보안 문제로 비공개
 
 ## 2020 시민참여형 사회문제해결 ICT서비스 기술개발 지원사업
 
