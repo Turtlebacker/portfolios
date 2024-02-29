@@ -36,6 +36,8 @@ Python(tkinter), Raspberry Pi, Linux
 
 ## 참고 사진
 
+![자동검사_시나리오 검사 결과 영문](https://github.com/Turtlebacker/portfolios/assets/97995992/e9a78eae-74b7-40dd-b305-ecc6467a3742)
+
 
 
 ## 방탈출 카페 콘텐츠 개발 용역
@@ -65,6 +67,9 @@ Java, Processing, Arduino, C/C++
 
 ## 참고 사진
 
+![스크린샷 2024-02-29 174214](https://github.com/Turtlebacker/portfolios/assets/97995992/5ae9346f-a0c1-4ebe-a860-5a51c35cee08)
+
+![스크린샷 2024-02-29 174323](https://github.com/Turtlebacker/portfolios/assets/97995992/4f86a9f1-b062-408c-8758-0a01eb8a9ef4)
 
 
 
@@ -136,11 +141,12 @@ Python, Hadoop, Solr, Neo4j, Ambari
 
 ## 기술 스택
 
-Java, springBoot, VM, CentOS, PowerShellScripts, VMware, Vsphere, ShellScripts
+Java, springBoot, VM, CentOS, PowerShellScripts, VMware, Vsphere, ShellScripts, GNS3
 
 ## 참고 사진
 
-보안 문제로 비공개
+![109](https://github.com/Turtlebacker/portfolios/assets/97995992/49d87371-f9bb-4688-a2f7-93d5e766e39c)
+
 
 
 # 메이킹협동조합
@@ -163,7 +169,7 @@ JavaScripts, GraphQL, express-graphql
 
 ## 참고 사진
 
-
+보안 문제로 비공개개
 
 ## 2020 시민참여형 사회문제해결 ICT서비스 기술개발 지원사업
 
@@ -181,4 +187,7 @@ C/C++, MFC
 ## 참고 사진
 
 ![캡처1](https://github.com/Turtlebacker/portfolios/assets/97995992/60e825e5-8c0c-4c80-9317-6069f1aae8ed)
+
+![캡처2](https://github.com/Turtlebacker/portfolios/assets/97995992/a73e8741-b46c-4eca-9f0b-0c14b216768f)
+
 
