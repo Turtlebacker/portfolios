@@ -38,6 +38,8 @@ Python(tkinter), Raspberry Pi, Linux
 
 ![자동검사_시나리오 검사 결과 영문](https://github.com/Turtlebacker/portfolios/assets/97995992/e9a78eae-74b7-40dd-b305-ecc6467a3742)
 
+![청력검사기_표지](https://github.com/Turtlebacker/portfolios/assets/97995992/3154fd41-3911-4be3-98ca-19f23b94dee5)
+
 
 
 ## 방탈출 카페 콘텐츠 개발 용역
